@@ -1,34 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weather Application in NextJS
+
+Weather Application using NextJS, ChakraUI, and Cypress.
+
+## Why did you make this?
+
+It is based off of an existing project in my GitHub the "Weather-App". This is my take on it with much of the materials and concepts I've learned while building my portfolio. Another reason is also because I was instructed to it as a basis for a take-home assignment. Little to my knowledge and the interviewer's, I already completed the take-home (yay!).
 
 ## Getting Started
 
-First, run the development server:
+### Dont forget to npm install!!
 
-```bash
-npm run dev
-# or
-yarn dev
+```
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### To run the project and demo it yourself run:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+npm run dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### Checkout the Cypress Tests like this"
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm run cypress
+```
 
-## Learn More
+- Click E2E Testing
+- Choose your preferred browser then click "Start E2E testing in..."
+- Make sure Specs is selected in the sidebar, and click on the "app.cy.ts" to run tests
 
-To learn more about Next.js, take a look at the following resources:
+Enjoy the epicness!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+NOTE: If the server isn't running already, the tests will fail right away!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Authors
 
-## Deploy on Vercel
+Contributors names and contact info
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ex. Joshua Semana
+ex. [@JestingJosh](https://twitter.com/jestingjosh)

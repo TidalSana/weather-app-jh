@@ -1,4 +1,5 @@
 import {
+  Button,
   Flex,
   Heading,
   Image,
@@ -8,6 +9,7 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 import { FunctionComponent } from "react";
+import NextLink from "next/link";
 import Header from "../components/header";
 interface AboutProps {}
 
@@ -60,6 +62,11 @@ const About: FunctionComponent<AboutProps> = () => {
           made a Zip and Country Code input to find the coordinates, the country
           codes are in ISO 3166.
         </Text>
+        <NextLink href="/">
+          <Button colorScheme="gray" variant="outline">
+            Return
+          </Button>
+        </NextLink>
       </Flex>
     </Flex>
   );
