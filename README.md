@@ -20,6 +20,14 @@ npm install
 npm run dev
 ```
 
+### Using the UI
+
+- Initially the page will start on the search via City pretty basic :P
+- You can toggle the switch button to change it to Coordinates to make it a little spicy
+- In the Coordinates page, a user can input their Zip/PostCode and Country Code [(ISO 3166)](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+
+- The Search should spit out the lat & long below which can be used to input in the coordinates for a search
+
 ### Checkout the Cypress Tests like this"
 
 ```
