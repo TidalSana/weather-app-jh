@@ -4,6 +4,8 @@ Weather Application using NextJS, ChakraUI, and Cypress.
 
 [Live](https://weather-app-jh.vercel.app/)! :point_left: :sunglasses: :point_left:
 
+NOTE: the coordinate search doesn't work because you have to pay for it (http/https). The free version only allows the city search! If you want to use the coordinate search you would have to run the app locally :(
+
 ## Why did you make this?
 
 It is based off of an existing project in my GitHub the "Weather-App". This is my take on it with much of the materials and concepts I've learned while building my portfolio. Another reason is also because I was instructed to it as a basis for a take-home assignment. Little to my knowledge and the interviewer's, I already completed the take-home (yay!) :grin: :grin: .
