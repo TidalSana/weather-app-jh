@@ -1,10 +1,10 @@
-# Weather Application in NextJS
+# Weather Application in NextJS :partly_sunny: :sun_behind_small_cloud:
 
 Weather Application using NextJS, ChakraUI, and Cypress.
 
 ## Why did you make this?
 
-It is based off of an existing project in my GitHub the "Weather-App". This is my take on it with much of the materials and concepts I've learned while building my portfolio. Another reason is also because I was instructed to it as a basis for a take-home assignment. Little to my knowledge and the interviewer's, I already completed the take-home (yay!).
+It is based off of an existing project in my GitHub the "Weather-App". This is my take on it with much of the materials and concepts I've learned while building my portfolio. Another reason is also because I was instructed to it as a basis for a take-home assignment. Little to my knowledge and the interviewer's, I already completed the take-home (yay!) :grin: :grin: .
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ It is based off of an existing project in my GitHub the "Weather-App". This is m
 npm install
 ```
 
-### To run the project and demo it yourself run:
+### To run the project and demo it yourself run: :running: :running:
 
 ```
 npm run dev
@@ -28,7 +28,7 @@ npm run dev
 
 - The Search should spit out the lat & long below which can be used to input in the coordinates for a search
 
-### Checkout the Cypress Tests like this"
+### Checkout the Cypress Tests like this:
 
 ```
 npm run cypress
