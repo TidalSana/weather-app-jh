@@ -2,7 +2,7 @@
 
 Weather Application using NextJS, ChakraUI, and Cypress.
 
-[Live](https://weather-app-jh.vercel.app/)! :point_left: :sunglasses: :point_left:
+[Live](https://weather-app-m4ctrubpj-tidalsana.vercel.app/)! :point_left: :sunglasses: :point_left:
 
 NOTE: the coordinate search doesn't work because you have to pay for it (http/https). The free version only allows the city search! If you want to use the coordinate search you would have to run the app locally :(
 
